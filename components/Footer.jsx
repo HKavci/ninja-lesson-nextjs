@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
+    <footer>
         Copyright 2023 Ninja List
-    </div>
+    </footer>
   )
 }
 
